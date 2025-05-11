@@ -1,68 +1,58 @@
-![Meteora](thumbnail.png)
+## 🛍️ Meteora
 
-# Meteora - E-commerce de Moda
+A **Meteora** é uma aplicação que simula uma loja de roupas onde o usuário pode navegar pelos produtos, adicioná-los ao carrinho, modificar quantidades, visualizar o total e finalizar a compra. O projeto tem como foco a refatoração e estilização de componentes com Styled Components, além do uso de recursos estáticos e boas práticas de acessibilidade.
 
-O Meteora é um projeto de e-commerce em fase de desenvolvimento inicial. Este README fornece informações sobre o projeto, suas funcionalidades e como executá-lo em seu ambiente local.
 
-![GIF da aplicação em execução](meteora-app.gif)
+![Static Badge](https://img.shields.io/badge/Conclu%C3%ADdo-label?style=for-the-badge&label=Status) ![Static Badge](https://img.shields.io/badge/Alura-label?style=for-the-badge&label=Curso&color=%23000080)
 
-## 🔨 Funcionalidades do projeto
+<hr>
 
-Neste estágio inicial de desenvolvimento, o Meteora possui as seguintes funcionalidades:
+## 🚀 Sobre o Projeto
 
-- Adicionar itens ao carrinho
-- Remover itens do carrinho
-- Visualizar a página do carrinho
-- Deletar itens do carrinho
+Este projeto foi desenvolvido durante o curso da Alura:
 
-O [Figma dessa aplicação você encontra aqui](https://www.figma.com/file/R5ATrWK1nC44Eyeo6XZXlr/Meteora---Context-API?node-id=2386%3A2430&mode=dev).
+* "React: estilize componentes com Styled Components e manipule arquivos estáticos"
+  
+A aplicação da Meteora permite visualizar a página inicial com banners e categorias, adicionar produtos ao carrinho de compras, aumentar e remover a quantidade de produtos no carrinho, visualizar o carrinho lateral a qualquer momento, ver o valor total da compra e redirecionar para a finalização da compra.
 
-## ✔️ Técnicas e tecnologias utilizadas
+## 📚 Objetivos do Curso
 
-O projeto Meteora utiliza as seguintes tecnologias e bibliotecas:
+**👉 React: estilize componentes com Styled Components e manipule arquivos estáticos**
 
-- `React` - Framework JavaScript
-- `Vite` - Build tool para desenvolvimento rápido
-- `JavaScript` - Linguagem de programação principal
-- `Context API` - Para gerenciamento de estado
-- `useReducer` - Para controle de estado
-- `useMemo` - Para otimização de desempenho
-- `Bootstrap` - Framework de design e componentes
+* Diferenciar o **Vite** do **CRA** e conhecer as vantagens do uso do Styled Components;
+* Utilizar **styled-components** para criação de uma NavBar e estilização de um banner;
+* Projetar e implementar **componentes React** para exibir imagens e legendas;
+* Aplicar **estilos personalizados e acessíveis** para uma galeria de fotos;
+* Adicionar uma **barra lateral** de imagens populares e **footer**.
 
-## 🛠️ Abrir e rodar o projeto
+## 🛠️ Tecnologias Utilizadas
 
-Para executar o projeto Meteora em seu ambiente local, siga estas etapas:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="80" height="80"/>                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="80" height="80"/>                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80" height="80"/>        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="80" height="80"/>
 
-1. Certifique-se de ter o Node.js instalado em sua máquina.
+## 🖼️ Visualização do Projeto
 
-2. Baixe o repositório do projeto:
+Uma prévia das principais funcionalidades da **Meteora**:
 
-3. Extraia os arquivos para uma pasta de sua preferência.
+**🌐 Acesse o Projeto Online**
 
-4. Navegue até a pasta em questão via terminal (cmd):
+O projeto está disponível para visualização na **Vercel**. Clique no link abaixo para acessar:
 
-```bash
-cd repo-meteora
-```
+<a href="https://meteora-ten-gamma.vercel.app" target="_blank">![Static Badge](https://img.shields.io/badge/Vercel-project?style=for-the-badge&color=A91079)</a>
 
-5. Instale as dependências usando o npm:
+**🏰 Tela Inicial**
 
-```bash
-npm install
-```
+Interface com destaque para o banner e as categorias de produtos.
 
-6. Inicie o projeto localmente:
+![Tela inicial do jogo](/assets/images/meteora-home.png)
 
-```bash
-npm run dev
-```
+**🛒 Carrinho Lateral Aberto**
 
-7. Abra seu navegador e acesse a url exibida no seu terminal para visualizar o projeto.
+Carrinho acessível ao lado da tela com os itens selecionados.
 
-## 📚 Mais informações do projeto
+![Carrinho lateral aberto](assets/images/meteora-carrinho.png)
 
-O Meteora é um e-commerce fictício de moda em constante desenvolvimento. Este projeto visa aprimorar as habilidades em React, e apresentar a Context API como uma solução para gerenciamento de estados globais de uma aplicação React.
+**💳 Finalização da Compra**
 
-O design e protótipo deste projeto podem ser encontrados [aqui](https://www.figma.com/file/R5ATrWK1nC44Eyeo6XZXlr/Meteora---Context-API?node-id=2386%3A2430&mode=dev).
+Página para confirmação e encerramento da compra.
 
-Aproveite o desenvolvimento e aprimoramento do Meteora!
+![Finalização da compra](assets/images/meteora-finalizar.png)
