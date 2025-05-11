@@ -42,7 +42,7 @@ O projeto está disponível para visualização na **Vercel**. Clique no link ab
 
 Interface com destaque para o banner e as categorias de produtos.
 
-![Tela inicial do jogo](public/assets/images/meteora-home.png)
+![Página inicial](public/assets/images/meteora-home.png)
 
 **🛒 Carrinho Lateral Aberto**
 
@@ -54,4 +54,4 @@ Carrinho acessível ao lado da tela com os itens selecionados.
 
 Página para confirmação e encerramento da compra.
 
-![Finalização da compra](publicassets/images/meteora-finalizar.png)
+![Finalização da compra](public/assets/images/meteora-finalizar.png)
