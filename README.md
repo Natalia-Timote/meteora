@@ -2,7 +2,6 @@
 
 A **Meteora** é uma aplicação que simula uma loja de roupas onde o usuário pode navegar pelos produtos, adicioná-los ao carrinho, modificar quantidades, visualizar o total e finalizar a compra. O projeto tem como foco a refatoração e estilização de componentes com Styled Components, além do uso de recursos estáticos e boas práticas de acessibilidade.
 
-
 ![Static Badge](https://img.shields.io/badge/Conclu%C3%ADdo-label?style=for-the-badge&label=Status) ![Static Badge](https://img.shields.io/badge/Alura-label?style=for-the-badge&label=Curso&color=%23000080)
 
 <hr>
@@ -39,20 +38,20 @@ O projeto está disponível para visualização na **Vercel**. Clique no link ab
 
 <a href="https://meteora-ten-gamma.vercel.app" target="_blank">![Static Badge](https://img.shields.io/badge/Vercel-project?style=for-the-badge&color=A91079)</a>
 
-**🏰 Tela Inicial**
+**🏠 Página Inicial**
 
 Interface com destaque para o banner e as categorias de produtos.
 
-![Tela inicial do jogo](/assets/images/meteora-home.png)
+![Tela inicial do jogo](public/assets/images/meteora-home.png)
 
 **🛒 Carrinho Lateral Aberto**
 
 Carrinho acessível ao lado da tela com os itens selecionados.
 
-![Carrinho lateral aberto](assets/images/meteora-carrinho.png)
+![Carrinho lateral aberto](public/assets/images/meteora-carrinho.png)
 
 **💳 Finalização da Compra**
 
 Página para confirmação e encerramento da compra.
 
-![Finalização da compra](assets/images/meteora-finalizar.png)
+![Finalização da compra](publicassets/images/meteora-finalizar.png)
