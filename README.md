@@ -18,11 +18,11 @@ A aplicação da Meteora permite visualizar a página inicial com banners e cate
 
 **👉 React: gerencie estados globalmente com Context API**
 
-* Identificar os conceitos da Context API no React e sua importância no desenvolvimento de aplicações;
-* Aplicar a Context API para evitar o 'prop drilling', simplificando o compartilhamento de dados entre componentes;
-* Criar seus próprios contextos em projetos React, permitindo o compartilhamento de estados globais, como temas e tokens de acesso;
-* Depurar e solucionar problemas relacionados à Context API, usando ferramentas como o React Context DevTools;
-* Combinar a Context API com o useReducer para gerenciar estados complexos.
+* Identificar os conceitos da **Context API** no React e sua importância no desenvolvimento de aplicações;
+* Aplicar a Context API para evitar o **'prop drilling'**, simplificando o compartilhamento de dados entre componentes;
+* Criar seus próprios **contextos** em projetos React, permitindo o compartilhamento de estados globais, como temas e tokens de acesso;
+* **Depurar e solucionar** problemas relacionados à Context API, usando ferramentas como o React Context DevTools;
+* Combinar a Context API com o **useReducer** para gerenciar **estados complexos**.
 
 ## 🛠️ Tecnologias Utilizadas
 
