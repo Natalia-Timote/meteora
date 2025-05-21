@@ -1,6 +1,6 @@
 ## 🛍️ Meteora
 
-A **Meteora** é uma aplicação que simula uma loja de roupas onde o usuário pode navegar pelos produtos, adicioná-los ao carrinho, modificar quantidades, visualizar o total e finalizar a compra. O projeto tem como foco a refatoração e estilização de componentes com Styled Components, além do uso de recursos estáticos e boas práticas de acessibilidade.
+A **Meteora** é uma aplicação que simula uma loja de roupas onde o usuário pode navegar pelos produtos, adicioná-los ao carrinho, modificar quantidades, visualizar o total e finalizar a compra. O projeto tem como foco o gerenciamento de **estados globais com a Context API**, simplificando o fluxo de dados e melhorando a organização da aplicação.
 
 ![Static Badge](https://img.shields.io/badge/Conclu%C3%ADdo-label?style=for-the-badge&label=Status) ![Static Badge](https://img.shields.io/badge/Alura-label?style=for-the-badge&label=Curso&color=%23000080)
 
@@ -10,19 +10,19 @@ A **Meteora** é uma aplicação que simula uma loja de roupas onde o usuário p
 
 Este projeto foi desenvolvido durante o curso da Alura:
 
-* "React: estilize componentes com Styled Components e manipule arquivos estáticos"
+* "React: gerencie estados globalmente com Context API"
   
 A aplicação da Meteora permite visualizar a página inicial com banners e categorias, adicionar produtos ao carrinho de compras, aumentar e remover a quantidade de produtos no carrinho, visualizar o carrinho lateral a qualquer momento, ver o valor total da compra e redirecionar para a finalização da compra.
 
 ## 📚 Objetivos do Curso
 
-**👉 React: estilize componentes com Styled Components e manipule arquivos estáticos**
+**👉 React: gerencie estados globalmente com Context API**
 
-* Diferenciar o **Vite** do **CRA** e conhecer as vantagens do uso do Styled Components;
-* Utilizar **styled-components** para criação de uma NavBar e estilização de um banner;
-* Projetar e implementar **componentes React** para exibir imagens e legendas;
-* Aplicar **estilos personalizados e acessíveis** para uma galeria de fotos;
-* Adicionar uma **barra lateral** de imagens populares e **footer**.
+* Identificar os conceitos da Context API no React e sua importância no desenvolvimento de aplicações;
+* Aplicar a Context API para evitar o 'prop drilling', simplificando o compartilhamento de dados entre componentes;
+* Criar seus próprios contextos em projetos React, permitindo o compartilhamento de estados globais, como temas e tokens de acesso;
+* Depurar e solucionar problemas relacionados à Context API, usando ferramentas como o React Context DevTools;
+* Combinar a Context API com o useReducer para gerenciar estados complexos.
 
 ## 🛠️ Tecnologias Utilizadas
 
