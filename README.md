@@ -16,8 +16,6 @@ A aplicação da Meteora permite visualizar a página inicial com banners e cate
 
 ## 📚 Objetivos do Curso
 
-**👉 React: gerencie estados globalmente com Context API**
-
 * Identificar os conceitos da **Context API** no React e sua importância no desenvolvimento de aplicações;
 * Aplicar a Context API para evitar o **'prop drilling'**, simplificando o compartilhamento de dados entre componentes;
 * Criar seus próprios **contextos** em projetos React, permitindo o compartilhamento de estados globais, como temas e tokens de acesso;
@@ -26,7 +24,7 @@ A aplicação da Meteora permite visualizar a página inicial com banners e cate
 
 ## 🛠️ Tecnologias Utilizadas
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="80" height="80"/>                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="80" height="80"/>                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80" height="80"/>        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="80" height="80"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="80" height="80"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80" height="80"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="80" height="80"/>
 
 ## 🖼️ Visualização do Projeto
 
